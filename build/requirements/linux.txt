@@ -1,0 +1,14 @@
+arrow
+beautifulsoup4
+dbus-python
+keyring
+lxml
+psutil
+pyqt6
+pyqt6-qt6
+pysocks
+python-dateutil
+requests
+requests-kerberos
+requests-ecp
+setuptools
