@@ -4,6 +4,7 @@ on:
     tags: 
       - 'v*'
       - 'master*'
+  workflow_dispatch:
 
 env:
   python_win_version: 3.11.8
