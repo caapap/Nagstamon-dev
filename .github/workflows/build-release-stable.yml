@@ -3,7 +3,7 @@ on:
   push:
     tags: 
       - 'v*'
-      - 'stellar*'
+      - 'master*'
 
 env:
   python_win_version: 3.11.8
