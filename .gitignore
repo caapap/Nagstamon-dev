@@ -18,3 +18,4 @@ dist/
 nagstamon
 nagstamon.conf/
 nagstamon.egg-info/
+.specstory/
